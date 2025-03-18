@@ -1,0 +1,8 @@
+History, Evalution, Purpose :
+
+# What is Typescript ? 
+    Typescript  = Javascript + (stongly Typed, Generics, Interface).
+    TypeScript is a superset of Javascript.
+    Typescript is open source programming language that adds static typing to JS.
+    TypeScript is a strongly typed, object-oriented, compiled programming language developed by Microsoft(2012).
+ 	

@@ -1,0 +1,14 @@
+# Prerequisits:
+    NodeJs: Goto https://nodejs.org/en/download. download windows installer(LTS).  
+    VSC:  Goto https://code.visualstudio.com/download & download
+    js: Basic Javascript
+
+# Setup: 
+    npm init -y
+    npm install typescript
+
+    tsc fileName.ts
+    tsc fileName.ts -watch 
+    node fileName.js 
+
+    tsc --init

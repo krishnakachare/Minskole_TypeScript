@@ -17,3 +17,11 @@
     node fileName.js 
 
     tsc --init
+
+    Run the following command in PowerShell as Administrator:
+        Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
+
+        npx tsc fileName.ts
+
+    tsc src/fileName.ts --outDir dist
+    tsc src/fileName.ts --outDir ../dist

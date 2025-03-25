@@ -1,0 +1,10 @@
+// Type: 2. string
+
+// let str = "TS"; // Type inference
+
+// variableName : type
+// NOTE: type is always in smallcase
+let str: string = "TS";
+// let str: string = 10;   // Not Allowed
+//   Type 'number' is not assignable to type 'string'.
+console.log(str); // "TS"

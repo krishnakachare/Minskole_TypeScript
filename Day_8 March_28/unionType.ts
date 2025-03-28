@@ -1,0 +1,7 @@
+// 8. union (|) : is a pipe
+// OR (|)
+// let variableName : type1 | type2
+
+let a: number | string = 10;
+a = "JS";
+console.log(a);

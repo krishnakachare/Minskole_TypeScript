@@ -1,5 +1,5 @@
 /* 
-  Type Aliases| Custome Type =>
+  11. Type Aliases| Custome Type =>
   type variableName = type
 */
 // 1. Type alise for values:

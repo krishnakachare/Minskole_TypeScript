@@ -1,0 +1,21 @@
+// Default parameter in function:
+// let fun: (p: number, q: number) => number = function (a, b) {
+//   return a + b;
+// };
+// let ans = fun(10, 10);
+// // let ans = fun(10); //   An argument for 'q' was not provided.
+// console.log(ans); // 20
+// let fun = function (a: number, b: number) {
+//   return a + b;
+// };
+// // let ans = fun(10, 10);
+// let ans = fun(10); //   An argument for 'q' was not provided.
+// console.log(ans); // 20
+// Para default value:
+var fun = function (a, b) {
+    if (b === void 0) { b = 10; }
+    return a + b;
+};
+// let ans = fun(10, 10);
+var ans = fun(10);
+console.log(ans); // 20

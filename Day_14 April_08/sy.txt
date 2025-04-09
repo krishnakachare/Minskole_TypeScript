@@ -1,4 +1,0 @@
-   undefined,      
-    never
-
-tsc & configuration

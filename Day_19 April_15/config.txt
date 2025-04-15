@@ -1,0 +1,30 @@
+TypeScript compiler configuration :
+
+Need to generate tscconfig.json file:
+
+tsc --init
+
+Read below: 
+https://aka.ms/tsconfig
+
+
+// js variable decleration
+let k = 10;
+
+key/property : value
+// ke
+
+// js object:
+let obj = {
+    key : value --> all datatypes can
+}
+
+json --> javascript object notation
+Javascript object storing key-value pair in string form
+
+.json -->
+{
+    'a':{
+        'key':'value'
+    }
+}

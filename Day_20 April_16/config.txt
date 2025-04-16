@@ -1,0 +1,11 @@
+rootDir
+outDir
+target
+soucemap
+removeComments
+onEmitOnError
+strict
+
+
+ES5 --> var
+ES6 --> let, const

@@ -1,0 +1,13 @@
+rootDir
+outDir
+target
+soucemap
+removeComments
+onEmitOnError
+strict
+
+Class:
+  Inheritance
+   method overriding
+  Access modifiers: Public, Private, Protected, readonly
+  static properties

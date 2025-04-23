@@ -24,7 +24,7 @@ Javascript object storing key-value pair in string form
 
 .json -->
 {
-    'a':{
-        'key':'value'
+    "a":{
+        "key":"value"
     }
 }

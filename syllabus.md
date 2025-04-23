@@ -50,13 +50,14 @@
 - Readonly, Getters & Setters
 - Inheritance & Overriding
 - Abstract Classes
-- Interfaces vs Abstract Classes
 - Static Methods & Props
 - `instanceof` Usage
 
 # 5. Interfaces & Type System
 
+- Interfaces
 - Interfaces vs Type Aliases
+- Interfaces vs Abstract Classes
 - Optional & Readonly Props
 - Extending Interfaces
 - Interface Merging

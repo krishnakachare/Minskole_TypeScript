@@ -3,10 +3,11 @@ Class, constructor:
   readonly property
   Inheritance  
   method overriding
+  'instanceof' Usage
   
   Access modifiers: Public, Private, Protected   
     Getters & Setters
     Abstract Classes
-   'instanceof' Usage
+   
   
   

@@ -1,0 +1,10 @@
+Class, constructor:
+  static properties, methods
+  readonly property
+  Inheritance  
+  method overriding
+  'instanceof' Usage
+  Getters & Setters
+  Abstract Classes
+  
+  Access modifiers: Public, Private, Protected      

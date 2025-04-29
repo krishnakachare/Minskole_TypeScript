@@ -1,9 +1,9 @@
-// staic properties & metods
+// staic properties & methods
 // readOnly properties
 
 // Access modifies: Class -->
 // Public
-// Private
+// Privte
 // Protected
 
 // 1. public:
@@ -41,3 +41,12 @@ class Abc {
 let a = new Abc();
 // console.log(a.namee); // error TS2445: Property 'namee' is protected and only accessible within class 'Abc' and its subclasses.
 console.log(a.getName()); // TS
+
+
+/* 
+OOPS:
+  1. Polymorphisms
+  2. Inheritance
+  3. Absraction
+  4. Encapsulation
+*/

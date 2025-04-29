@@ -46,24 +46,26 @@
 # 4. Object-Oriented Programming
 
 - Classes & Constructors
-- Public / Private / Protected
-- Readonly, Getters & Setters
-- Inheritance & Overriding
-- Abstract Classes
-- Static Methods & Props
+- static properties, methods
+- readonly property
 - `instanceof` Usage
+- Inheritance & Overriding
+- Readonly, Getters & Setters
+- Abstract Classes
+- Access modifiers: Public, Private, Protected
 
 # 5. Interfaces & Type System
 
-- Interfaces
+- Interface(for object)
+- Optional & Readonly Props
+- Extending Interfaces (Extending multipal interfaces)
+- Interface Merging
+- Interface implements on the class
+- Function Types with Interfaces
+- Index Signatures (Interface for Array Type)
+- Structural Typing
 - Interfaces vs Type Aliases
 - Interfaces vs Abstract Classes
-- Optional & Readonly Props
-- Extending Interfaces
-- Interface Merging
-- Function Types with Interfaces
-- Index Signatures
-- Structural Typing
 
 # 6. Advanced TypeScript
 

@@ -5,6 +5,5 @@ Class, constructor:
   method overriding
   'instanceof' Usage
   Getters & Setters
-  Abstract Classes
-  
+  Abstract Classes  
   Access modifiers: Public, Private, Protected      

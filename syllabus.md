@@ -72,15 +72,9 @@
 - Generics:
   - Functions, Interfaces, Classes
   - Constraints and Defaults
-- Type Guards:
-  - `typeof`, `instanceof`, Custom Guards
-- Discriminated Unions
-- Mapped Types
-- Conditional Types
 - Utility Types:
-  - `Partial`, `Required`, `Readonly`, `Pick`, `Omit`, `Record`, `Exclude`, `Extract`, `NonNullable`
+  - `Partial`, `Required`, `Readonly`
 - Template Literal Types
-- `keyof`, `typeof`, `in` Usage
 
 # 7. Decorators
 

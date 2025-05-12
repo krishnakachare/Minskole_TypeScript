@@ -98,14 +98,12 @@
   - Named / Default Exports
   - Import Variants
 - Namespaces (legacy use)
-- Module Resolution
 - Path Aliases
 
 # 9. Error Handling & Debugging
 
 - `try` / `catch` / `finally`
 - Custom Errors
-- Type Narrowing with Errors
 - Debugging TS in VSCode
 - Source Maps
 

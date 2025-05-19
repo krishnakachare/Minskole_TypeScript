@@ -116,7 +116,6 @@ class Abc4 {
   constructor(para: string) {
     this.name = para;
   }
-
   @acessorDecorator
   get getPIN() {
     return this._a;

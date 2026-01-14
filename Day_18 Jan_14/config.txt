@@ -1,0 +1,24 @@
+TypeScript compiler configuration :
+
+    Need to generate tscconfig.json file:   tsc --init
+
+    Read below: https://aka.ms/tsconfig
+
+    ==================
+    rootDir: .ts root folder
+    outDir: .js root folder
+
+    target: can set javascript version
+    ES5 --> var
+    ES6 --> let, const
+
+    soucemap: can see .ts file in browser source
+    removeComments: In emmit commented lines not present
+    onEmitOnError: Code not be emmit if error occure in .ts file at compilation
+    strict: will activate js strict mode
+
+    include: consider .ts files for compilation
+    exclude: ignore files from compilation
+
+ 
+    ====================

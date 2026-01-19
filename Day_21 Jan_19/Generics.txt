@@ -1,0 +1,19 @@
+# Advance Types in TS:
+
+Generics: Is way of type annotation
+Can type annotation --> multipal places
+Moto : flexible, reusable
+
+- Functions, 
+- Interfaces, 
+- Classes
+- Defaults Type
+- Utility Types: `Partial`, `Required`, `Readonly`
+
+- Array generics
+
+
+
+
+
+

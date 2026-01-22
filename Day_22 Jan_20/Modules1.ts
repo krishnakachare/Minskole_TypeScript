@@ -2,7 +2,8 @@
 // file code can called module
 // have types of modules: commanJS, ECMAScript
 
-// commanJS modules: export, impoert
+// commanJS modules: 
+// export, impoert
 
 
 // using export keyword: code converting in json object to export

@@ -8,4 +8,5 @@
 
 module.exports = "I am comman JS Export";
 
+// install for using node types:
 // npm i --save-dev @types/node

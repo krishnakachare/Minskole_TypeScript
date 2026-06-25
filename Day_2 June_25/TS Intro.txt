@@ -1,0 +1,33 @@
+History, Evalution, Purpose :
+
+# What is Typescript ? 
+    Typescript  = Javascript + (stongly Typed, Generics, Interface).
+    TypeScript is a superset of Javascript.
+    Typescript is open source programming language that adds static typing to JS.
+    TypeScript is a strongly/static typed, object-oriented, compiled programming language developed by Microsoft(2012).
+
+
+
+    npm install -g typescript
+
+    tsc -v    (typescript compiler)
+
+
+Strongly/Static Typed : Cant changed initialized datatype
+Dynamicaly typed : Can change initialized datatype
+
+TS code execution flow:
+    TS Code ---> Compile ---> JS Code ---> output
+
+Compile: Code converting one programing lang to another programing lang
+        TS using tsc for code compile
+
+Use of Typescript:
+    Front End : Angular, React
+    Back End : NodeJS
+    Testing : Cypress, Playwright
+
+Limitations of TypeScript:
+   1. Execution time is slightly more
+   2. Script packages are heavy
+   3. Not directly execute

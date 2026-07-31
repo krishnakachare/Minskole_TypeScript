@@ -1,0 +1,24 @@
+TypeScript compiler configuration :
+
+Need to generate tscconfig.json file:
+
+tsc --init
+
+Read below: 
+https://aka.ms/tsconfig
+
+
+rootDir
+outDir
+target
+soucemap
+removeComments
+onEmitOnError
+strict
+
+"alwaysStrict": false,
+"ignoreDeprecations": "6.0",
+
+
+ES5 --> var
+ES6 --> let, const

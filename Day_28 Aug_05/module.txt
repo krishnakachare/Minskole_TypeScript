@@ -1,0 +1,14 @@
+# Modules:
+
+1. Comman JS Module:
+    module.export = code
+    let variableName = requires("path")
+
+    npm i --save-dev @types/node
+
+2. ES6 Module:
+    export code
+    import {variableName} from "path"
+
+    export default code
+    import variableName from "path"

@@ -1,0 +1,13 @@
+# namespace: 
+  -logical Groupping of modules
+  -Can access namespace within the same file
+  -can export
+
+namespace namespaceName {
+  export code 
+}
+
+// Use:
+/// <reference path="./namespace.ts" />
+
+tsc fileName.ts --outFile fileName.js

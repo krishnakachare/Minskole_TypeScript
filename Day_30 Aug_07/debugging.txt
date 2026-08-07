@@ -1,0 +1,13 @@
+// Custome Error: Can generate custom errors with help of js Error class
+let error = new Error("I am Error Msg");
+console.log(error);
+
+Error: Try to read error properly and fix your code accordingly
+Error handling: try-catch-finally
+
+# TS Code debugging:
+    - console.log()
+    - breakpoints: 
+    1. debugger --> statement in js
+    2. browser --> source tab
+    3. VSC breakpoints

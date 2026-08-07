@@ -11,5 +11,3 @@ namespace namespaceName {
 /// <reference path="./namespace.ts" />
 
 tsc fileName.ts --outFile fileName.js
-
-tsc --outFile dist/bundle.js src/geometry.ts src/main.ts
